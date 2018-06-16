@@ -78,5 +78,6 @@ while age<6{
     print("age = \(age)")
     age += 1
 }
+print("\(greeting) \(name)")
 
 
